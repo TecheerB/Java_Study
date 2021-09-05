@@ -25,13 +25,13 @@
 > `자바의 정석 3판` 기준 <br>
 > 매주 주차/주제별 문제가 추가됩니다. 주차별 일정은 스터디 진행 상황에 따라 변경될 수 있습니다. <br>
 
-|일정|Chapter|주제|문제|
-|:-:|:-:|:-:|:-:|
-|1주차|1장|자바를 시작하기 전에|X|
-|1주차|2장|변수|X|
-|1주차|3장|연산자|[사칙연산](https://www.acmicpc.net/problem/10869)|
-|1주차|4장|조건문과 반복문|[두 수 비교하기](https://www.acmicpc.net/problem/1330), [별 찍기 1](https://www.acmicpc.net/problem/2438), [별 찍기 2](https://www.acmicpc.net/problem/2439), [X보다 작은 수](https://www.acmicpc.net/problem/10871), [A+B-5](https://www.acmicpc.net/problem/10952)|
-|1주차|5장|배열|[최소, 최대](https://www.acmicpc.net/problem/10818), [숫자의 개수](https://www.acmicpc.net/problem/2577), [OX 퀴즈](https://www.acmicpc.net/problem/8958), [알파벳 찾기](https://www.acmicpc.net/problem/10809), [상수](https://www.acmicpc.net/problem/2908)|
+|일정|Chapter|주제|EASY|NORMAL|HARD|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|1주차|1장|자바를 시작하기 전에|X|X|X|
+|1주차|2장|변수|X|X|X|
+|1주차|3장|연산자|[사칙연산](https://www.acmicpc.net/problem/10869), [꼬마정민](https://www.acmicpc.net/problem/11382)|[곱셈](https://www.acmicpc.net/problem/2588)|X|
+|1주차|4장|조건문과 반복문|[두 수 비교하기](https://www.acmicpc.net/problem/1330), [별 찍기 1](https://www.acmicpc.net/problem/2438), [별 찍기 2](https://www.acmicpc.net/problem/2439), [X보다 작은 수](https://www.acmicpc.net/problem/10871), [A+B-5](https://www.acmicpc.net/problem/10952)|[별 찍기 5](https://www.acmicpc.net/problem/2442), [알람 시계](https://www.acmicpc.net/problem/2884)|[별 찍기 11](https://www.acmicpc.net/problem/2448)|
+|1주차|5장|배열|[최소, 최대](https://www.acmicpc.net/problem/10818), [숫자의 개수](https://www.acmicpc.net/problem/2577), [OX 퀴즈](https://www.acmicpc.net/problem/8958), [알파벳 찾기](https://www.acmicpc.net/problem/10809)|[상수](https://www.acmicpc.net/problem/2908), [평균은 넘겠지](https://www.acmicpc.net/problem/4344), [접미사 배열](https://www.acmicpc.net/problem/11656)|[배열 돌리기](https://ayjblog.tistory.com/entry/%EB%B0%B1%EC%A4%80-16926-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-1-Java)|
 |2주차|6장|객체지향 프로그래밍 1|
 |3주차|7장|객체지향 프로그래밍 2|
 |4주차|8장|예외처리|
