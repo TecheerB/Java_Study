@@ -28,7 +28,8 @@ public class 평균 {
                     count++;
                 }
             } 
-        System.out.printf("%.3f%%\n", ((count/students)*100));
+        System.out.printf("%.3f", ((count/students)*100));
+        System.out.println("%");
         }
     scan.close();
     }
