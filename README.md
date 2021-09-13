@@ -55,4 +55,4 @@
 | EunjiShin |:white_check_mark:||||||||||
 | RyanLee |:white_check_mark:||||||||||
 | GnuPark |:white_check_mark:||||||||||
-| YoungjinShin |||||||||||
+| YoungjinShin |:white_check_mark:||||||||||
