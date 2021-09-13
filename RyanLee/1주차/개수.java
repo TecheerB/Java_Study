@@ -21,10 +21,10 @@ public class 개수 {
 
             int length = String.valueOf(abc).length();
 
-            for (int x = 0; x <= 9; x++){ // 0 to 9
+            for (int x = 0; x <= 9; x++){ 
                 int count = 0;
                 String z = Integer.toString(x);
-                for (int y = 0; y < length; y++){ // length of abc
+                for (int y = 0; y < length; y++){ 
                     if (str.charAt(y) == z.charAt(0)){
                         count++;
                     }
