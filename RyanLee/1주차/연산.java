@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class 연산 {
         public static void main(String[] args) {
             Scanner read = new Scanner(System.in);
 

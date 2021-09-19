@@ -32,11 +32,17 @@
 |1주차|3장|연산자|[사칙연산](https://www.acmicpc.net/problem/10869), [꼬마정민](https://www.acmicpc.net/problem/11382)|[곱셈](https://www.acmicpc.net/problem/2588)|X|
 |1주차|4장|조건문과 반복문|[두 수 비교하기](https://www.acmicpc.net/problem/1330), [별 찍기 1](https://www.acmicpc.net/problem/2438), [별 찍기 2](https://www.acmicpc.net/problem/2439), [X보다 작은 수](https://www.acmicpc.net/problem/10871), [A+B-5](https://www.acmicpc.net/problem/10952)|[별 찍기 5](https://www.acmicpc.net/problem/2442), [알람 시계](https://www.acmicpc.net/problem/2884)|[별 찍기 11](https://www.acmicpc.net/problem/2448)|
 |1주차|5장|배열|[최소, 최대](https://www.acmicpc.net/problem/10818), [숫자의 개수](https://www.acmicpc.net/problem/2577), [OX 퀴즈](https://www.acmicpc.net/problem/8958), [알파벳 찾기](https://www.acmicpc.net/problem/10809)|[상수](https://www.acmicpc.net/problem/2908), [평균은 넘겠지](https://www.acmicpc.net/problem/4344), [접미사 배열](https://www.acmicpc.net/problem/11656)|[배열 돌리기](https://www.acmicpc.net/problem/16926)|
-|2주차|6, 7, 8장|객체지향 프로그래밍 1, 객체지향 프로그래밍 2, 예외처리|
-|3주차|9, 10장|java.lang 패키지와 유용한 클래스, 날짜와 시간 & 형식화|
-|4주차|11, 12장|컬렉션 프레임웍, Generics, enum, annotation|
-|5주차|13, 14장|쓰레드, 람다와 스트림|
-|6주차|15, 16장|입출력(I/O), 네트워킹|
+|2주차|6장|객체지향 프로그래밍 1|[자바의 정석 6장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch06/src)|[자바의 정석 6장 연습문제](https://www.notion.so/Ch-6-1-5bc7bbfb9676431ea8396826e1a0db2b)|X|
+|2주차|7장|객체지향 프로그래밍 2|[자바의 정석 7장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch07/src)|[자바의 정석 7장 연습문제](https://www.notion.so/Ch-7-2-41f85103495e485ba1ba73ad9603afdf)|X|
+|2주차|8장|예외처리|[자바의 정석 8장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch08/src)|[자바의 정석 8장 연습문제](https://www.notion.so/Ch-8-2b3b9f52fa90439c9a97436d7297ee61)|X|
+|3주차|9장|java.lang 패키지와 유용한 클래스|
+|3주차|10장|날짜와 시간 & 형식화|
+|4주차|11장|컬렉션 프레임웍|
+|4주차|12장|Generics, enum, annotation|
+|5주차|13장|쓰레드|
+|5주차|14장|람다와 스트림|
+|6주차|15장|입출력(I/O)|
+|6주차|16장|네트워킹
 
 <br>
 
@@ -46,7 +52,7 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| EunjiShin |||||||||||
-| RyanLee |||||||||||
-| GnuPark |||||||||||
-| YoungjinShin |||||||||||
+| EunjiShin |:white_check_mark:||||||||||
+| RyanLee |:white_check_mark:||||||||||
+| GnuPark |:white_check_mark:||||||||||
+| YoungjinShin |:white_check_mark:||||||||||
