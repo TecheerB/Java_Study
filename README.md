@@ -36,7 +36,7 @@
 |2주차|7장|객체지향 프로그래밍 2|[자바의 정석 7장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch07/src)|[자바의 정석 7장 연습문제](https://www.notion.so/Ch-7-2-41f85103495e485ba1ba73ad9603afdf)|X|
 |2주차|8장|예외처리|[자바의 정석 8장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch08/src)|[자바의 정석 8장 연습문제](https://www.notion.so/Ch-8-2b3b9f52fa90439c9a97436d7297ee61)|X|
 |3주차|9장|java.lang 패키지와 유용한 클래스|[자바의 정석 9장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch09/src), [명령 프롬프트](https://www.acmicpc.net/problem/1032)|[슬라임 합치기](https://www.acmicpc.net/problem/14241), [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[고층건물](https://www.acmicpc.net/problem/1027)|
-|3주차|10장|날짜와 시간 & 형식화|[자바의 정석 10장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch10/src), [오늘 날짜](acmicpc.net/problem/10699)|X|X|
+|3주차|10장|날짜와 시간 & 형식화|[자바의 정석 10장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch10/src), [오늘 날짜](https://www.acmicpc.net/problem/10699)|X|X|
 |4주차|11장|컬렉션 프레임웍|
 |4주차|12장|Generics, enum, annotation|
 |5주차|13장|쓰레드|
