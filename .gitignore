@@ -215,7 +215,7 @@ hs_err_pid*
 .history
 .ionide
 
-.DS-Store
+.DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,intellij,eclipse,java
 
