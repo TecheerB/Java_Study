@@ -1,3 +1,5 @@
+//백준 1032
+
 import java.util.Scanner;
  
 public class 프롬트 {
