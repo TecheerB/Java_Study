@@ -40,8 +40,8 @@
 |3주차|10장|날짜와 시간 & 형식화|[자바의 정석 10장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch10/src), [오늘 날짜](https://www.acmicpc.net/problem/10699)|X|X|
 |4주차|11장|컬렉션 프레임웍|[자바의 정석 11장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch11/src), <br> [최소, 최대 : 컬렉션 프레임워크 사용해서 풀기](https://www.acmicpc.net/problem/10818), <br> [스택 : 컬렉션 프레임워크 사용해서 풀기](https://www.acmicpc.net/problem/10828)|[큐 2](https://www.acmicpc.net/problem/18258), [회사에 있는 사람](https://www.acmicpc.net/problem/7785), <br> [에디터](https://www.acmicpc.net/problem/1406)|[문제집](https://www.acmicpc.net/problem/1766)|
 |4주차|12장|Generics, enum, annotation|[자바의 정석 12장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch12/src), [저항](https://www.acmicpc.net/problem/1076), <br> [2007년](https://www.acmicpc.net/problem/1924)|[킹](https://www.acmicpc.net/problem/1063)|X|
-|5주차|13장|쓰레드|
-|5주차|14장|람다와 스트림|
+|5주차|13장|쓰레드|[자바의 정석 13장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch13/src)|X|X|
+|5주차|14장|람다와 스트림|[자바의 정석 14장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch14/src), <br> [최댓값](https://www.acmicpc.net/problem/2562), [나머지](https://www.acmicpc.net/problem/3052)|[좌표 정렬하기](https://www.acmicpc.net/problem/11650), [2+1 세일](https://www.acmicpc.net/problem/11508), <br> [나이 순 정렬](https://www.acmicpc.net/problem/10814), [단어 정렬](https://www.acmicpc.net/problem/1181), <br> [집합](https://www.acmicpc.net/problem/11723)| [행성 터널](https://www.acmicpc.net/problem/2887)|
 |6주차|15장|입출력(I/O)|
 |6주차|16장|네트워킹|
 
@@ -55,5 +55,5 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | EunjiShin |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | RyanLee |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| GnuPark |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| GnuPark |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | YoungjinShin |:white_check_mark:|:white_check_mark:|||||||||
