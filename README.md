@@ -4,7 +4,8 @@
 <br>
 
 ## 스터디 규칙
-1. 매주 최소 1개의 문제를 풀고 `개인 폴더/주차별 폴더`에 기록합니다.
+1. 매주 정해진 개수만큼 문제를 풀고 `개인 폴더/주차별 폴더`에 기록합니다.
+    - 주당 EASY 난이도는 5개, NORMAL 난이도는 3개, HARD 난이도는 1개를 풉니다. 더 풀어도 되지만, 덜 푸는건 안됩니다! 
     - 경로 양식) EunjiShin/1주차/if문.java  
     - 이론만 있는 주제의 경우 공부한 **학습 결과물**을, 실습이 필요한 주제의 경우 **코드와 풀이 과정**을 기록합니다. 
     - 매주 백준/프로그래머스 등에서 주제와 관련된 기초 문제를 골라 아래 주차별 목차에 기재할 예정입니다. 
@@ -37,12 +38,12 @@
 |2주차|8장|예외처리|[자바의 정석 8장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch08/src)|[자바의 정석 8장 연습문제](https://www.notion.so/Ch-8-2b3b9f52fa90439c9a97436d7297ee61)|X|
 |3주차|9장|java.lang 패키지와 유용한 클래스|[자바의 정석 9장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch09/src), [명령 프롬프트](https://www.acmicpc.net/problem/1032)|[슬라임 합치기](https://www.acmicpc.net/problem/14241), [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[고층건물](https://www.acmicpc.net/problem/1027)|
 |3주차|10장|날짜와 시간 & 형식화|[자바의 정석 10장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch10/src), [오늘 날짜](https://www.acmicpc.net/problem/10699)|X|X|
-|4주차|11장|컬렉션 프레임웍|
-|4주차|12장|Generics, enum, annotation|
+|4주차|11장|컬렉션 프레임웍|[자바의 정석 11장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch11/src), <br> [최소, 최대 : 컬렉션 프레임워크 사용해서 풀기](https://www.acmicpc.net/problem/10818), <br> [스택 : 컬렉션 프레임워크 사용해서 풀기](https://www.acmicpc.net/problem/10828)|[큐 2](https://www.acmicpc.net/problem/18258), [회사에 있는 사람](https://www.acmicpc.net/problem/7785), <br> [에디터](https://www.acmicpc.net/problem/1406)|[문제집](https://www.acmicpc.net/problem/1766)|
+|4주차|12장|Generics, enum, annotation|[자바의 정석 12장 예제](https://github.com/castello/javajungsuk3/tree/master/workspace/ch12/src), [저항](https://www.acmicpc.net/problem/1076), <br> [2007년](https://www.acmicpc.net/problem/1924)|[킹](https://www.acmicpc.net/problem/1063)|X|
 |5주차|13장|쓰레드|
 |5주차|14장|람다와 스트림|
 |6주차|15장|입출력(I/O)|
-|6주차|16장|네트워킹
+|6주차|16장|네트워킹|
 
 <br>
 
@@ -52,7 +53,7 @@
 
 | 참여자 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| EunjiShin |:white_check_mark:|:white_check_mark:|||||||||
-| RyanLee |:white_check_mark:|:white_check_mark:|||||||||
-| GnuPark |:white_check_mark:|:white_check_mark:|||||||||
-| YoungjinShin |:white_check_mark:||||||||||
+| EunjiShin |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| RyanLee |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| GnuPark |:white_check_mark:|:white_check_mark:|:white_check_mark:||||||||
+| YoungjinShin |:white_check_mark:|:white_check_mark:|||||||||
