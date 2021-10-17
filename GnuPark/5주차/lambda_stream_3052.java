@@ -1,3 +1,6 @@
+import java.io.*;
+import java.util.*;
+
 public class lambda_stream_3052 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
